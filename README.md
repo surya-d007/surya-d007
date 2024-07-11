@@ -11,40 +11,38 @@ I'm currently pursuing a B.Tech in Computer Science at VIT Chennai ('25). My pas
 ## Skills
 
 ### Web Development
-- **MERN Stack**
-  - ![React](https://img.icons8.com/color/48/000000/react-native.png)
-  - ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
-  - ![Express.js](https://img.icons8.com/color/48/000000/express.png)
-  - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
-- **Other Technologies**
-  - ![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
-  - ![Flask](https://img.icons8.com/color/48/000000/flask.png)
-  - ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
-  - ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![React](https://img.icons8.com/color/48/000000/react-native.png)
+![Node.js](https://img.icons8.com/color/48/000000/nodejs.png)
+![Express.js](https://img.icons8.com/color/48/000000/express.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![AngularJS](https://img.icons8.com/color/48/000000/angularjs.png)
+![Flask](https://img.icons8.com/color/48/000000/flask.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 
 ### Frameworks
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
-- ![Tailwind](https://img.icons8.com/color/48/000000/tailwind-css.png)
-- ![Mongoose](https://img.icons8.com/color/48/000000/mongoose.png)
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Tailwind](https://img.icons8.com/color/48/000000/tailwind-css.png)
+![Mongoose](https://img.icons8.com/color/48/000000/mongoose.png)
 
 ### App Development
-- ![React Native](https://img.icons8.com/color/48/000000/react-native.png)
+![React Native](https://img.icons8.com/color/48/000000/react-native.png)
 
 ### Cloud Services
-- ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
-- ![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
+![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)
+![Heroku](https://img.icons8.com/color/48/000000/heroku.png)
 
 ### Programming Languages
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-- ![Python](https://img.icons8.com/color/48/000000/python.png)
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
 
 ### APIs and Version Control
-- ![REST APIs](https://img.icons8.com/color/48/000000/api-settings.png)
-- ![Git](https://img.icons8.com/color/48/000000/git.png)
-- ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-- ![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
+![REST APIs](https://img.icons8.com/color/48/000000/api-settings.png)
+![Git](https://img.icons8.com/color/48/000000/git.png)
+![GitHub](https://img.icons8.com/color/48/000000/github.png)
+![Postman](https://img.icons8.com/color/48/000000/postman-api.png)
 
 ---
 
