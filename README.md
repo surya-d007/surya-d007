@@ -42,8 +42,8 @@ I'm currently pursuing a B.Tech in Computer Science at VIT Chennai ('25). My pas
 ![REST APIs](https://img.icons8.com/color/48/000000/api-settings.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 ![GitHub](https://img.icons8.com/color/48/000000/github.png)
-![Postman](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcYJoetYqKxgVtDoFHN08qIF811Aglug-sw&s)
-<img src="https://img.icons8.com/color/48/000000/css3.png" height="48" width="48"/>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFcYJoetYqKxgVtDoFHN08qIF811Aglug-sw&s" height="48" width="48"/>
 
 ---
 
