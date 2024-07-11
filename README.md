@@ -10,7 +10,7 @@ I'm currently pursuing a B.Tech in Computer Science at VIT Chennai ('25). My pas
 
 ## Skills
 
-### Web Development
+##### Web Development
 - **MERN Stack**
   - React
   - Node.js
