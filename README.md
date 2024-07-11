@@ -1,17 +1,64 @@
-## Hi there 👋
-fdg
+# Hi there 👋 I'm Surya
 
-<!--
-**surya-d007/surya-d007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing a B.Tech in Computer Science at VIT Chennai ('25). My passion for technology and innovation drives me to explore and push the boundaries of what's possible. As a Web Developer specializing in the MERN Stack, I have honed my skills in creating dynamic and responsive web applications. Additionally, I hold certifications as an AWS Cloud Practitioner & Solutions Architect Associate, enabling me to architect robust cloud solutions. My journey began as a former Intern at JumpStartNinjas, where I contributed to projects leveraging AngularJS. Beyond my professional endeavors, I am deeply enthusiastic about Machine Learning.
+
+---
+
+## Skills
+
+### Web Development
+- **MERN Stack**
+  - React
+  - Node.js
+  - Express.js
+  - MongoDB
+- **Other Technologies**
+  - AngularJS
+  - Flask
+  - HTML5
+  - CSS3
+
+### Frameworks
+- Bootstrap
+- Tailwind
+- Mongoose
+
+### App Development
+- React Native
+
+### Cloud Services
+- AWS
+- Heroku
+
+### Programming Languages
+- Java
+- Python
+- JavaScript
+- SQL
+
+### APIs and Version Control
+- REST APIs
+- Git
+- GitHub
+- Postman
+
+---
+
+## Certifications
+
+- AWS Certified Solutions Architect - Associate
+- AWS Certified Cloud Practitioner
+- C Training (IIT Bombay)
+
+---
+
+## Fun Fact
+I'm constantly exploring Machine Learning applications and pushing the boundaries of what's possible!
+
+---
+
+📫 How to reach me: [Your Contact Information]
