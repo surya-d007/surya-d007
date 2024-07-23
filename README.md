@@ -51,13 +51,7 @@ I'm currently pursuing a B.Tech in Computer Science at VIT Chennai ('25). My pas
 
 - AWS Certified Solutions Architect - Associate
 - AWS Certified Cloud Practitioner
-- C Training (IIT Bombay)
 
----
 
-## Fun Fact
-I'm constantly exploring Machine Learning applications and pushing the boundaries of what's possible!
 
----
-
-📫 How to reach me: [Your Contact Information]
+📫 How to reach me: [ email : surya.devireddy.004@gmail.com ]
