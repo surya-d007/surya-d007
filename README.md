@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm currently pursuing a B.Tech in Computer Science at VIT Chennai ('25). My passion for technology and innovation drives me to explore and push the boundaries of what's possible. As a Web Developer specializing in the MERN Stack, I have honed my skills in creating dynamic and responsive web applications. Additionally, I hold certifications as an AWS Cloud Practitioner & Solutions Architect Associate, enabling me to architect robust cloud solutions. My journey began as a former Intern at JumpStartNinjas, where I contributed to projects leveraging AngularJS. Beyond my professional endeavors, I am deeply enthusiastic about Machine Learning.
+I'm currently pursuing B.Tech in Computer Science at VIT Chennai ('25). My passion for technology and innovation drives me to explore and push the boundaries of what's possible. As a Web Developer specializing in the MERN Stack, I have honed my skills in creating dynamic and responsive web applications. Additionally, I hold certifications as an AWS Cloud Practitioner & Solutions Architect Associate, enabling me to architect robust cloud solutions. Beyond my professional endeavors, I am deeply enthusiastic about Machine Learning.
 
 ---
 
