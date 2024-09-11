@@ -54,4 +54,4 @@ I'm currently pursuing B.Tech in Computer Science at VIT Chennai ('25). My passi
 
 
 
-📫 How to reach me: [ email : surya.devireddy.004@gmail.com ]
+📫 How to reach me: [ email : surya.vit25@gmail.com ]
